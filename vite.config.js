@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  base
+  base: "/reactTask4-registerForm/"
 })
